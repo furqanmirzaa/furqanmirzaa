@@ -63,6 +63,8 @@
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=furqanmirzaa&count_private=true&theme=react&border_radius=10" />
 
   <br/>
+  ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=furqanmirzaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&custom_title=Furqan's%20Top%20Languages)
+
  <img width="390" src="https://github-readme-stats.vercel.app/api?username=furqanmirzaa&show_icons=true&count_private=true&theme=react&border_radius=10" />
 
   <br/>
