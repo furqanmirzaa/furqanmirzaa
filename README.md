@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=furqanmz.furqanmz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey%2C+I'm+Furqan+Mirzaa!+👋;Automation+Engineer+%26+System+Design" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey%2C+I'm+Furqan+Mirzaa!+👋;Automation+Engineer+%26" />
 </h1>
 
 <h3 align="center">Building automation systems, workflow engines, and scalable backend architectures.</h3>
